@@ -1,0 +1,4 @@
+aiosqlite
+environs
+aiogram
+
